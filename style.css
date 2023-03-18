@@ -1,0 +1,22 @@
+#m2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+
+#user-input {
+    padding-left: 10px;
+    width: 500px;
+    margin-top: 100px;
+    height: 30px;
+    background-color: #d0fdd0;
+    border-radius: 28px;
+    border: 3px solid green;
+}
+
+#submit-btn {
+    background-color: #76a7e500;
+    border: 2px solid #0000ff00;
+    height: 33px;
+    border-radius: 30px;
+}
